@@ -1,6 +1,6 @@
 # 🛒 Carrito de Compras con React, Vite y Tailwind
 
-Este proyecto es una aplicación web de **Carrito de Compras** desarrollada con **React** para la interfaz dinámica, **Vite** para un bundling rápido y eficiente, y **Tailwind CSS** para un diseño moderno y responsivo.  
+Este proyecto es una aplicación web de **Carrito de Compras** desarrollada con **React** para la interfaz dinámica, **Vite** para un bundling rápido y eficiente.
 Además, se implementa el **Context API de React** para gestionar el estado global del carrito de manera sencilla y escalable.
 
 ---
@@ -10,7 +10,6 @@ Además, se implementa el **Context API de React** para gestionar el estado glob
 - Añadir, eliminar y actualizar productos en el carrito.
 - Visualización del total de productos y precio acumulado.
 - Manejo de estado global con **React Context**.
-- Interfaz intuitiva y responsiva usando **Tailwind CSS**.
 - Configuración optimizada con **Vite** para un entorno de desarrollo veloz.
 
 ---
@@ -19,8 +18,6 @@ Además, se implementa el **Context API de React** para gestionar el estado glob
 
 - **React** → Construcción de interfaces de usuario.
 - **Vite** → Entorno de desarrollo rápido y moderno.
-- **Tailwind CSS** → Estilos adaptativos y utilitarios.
-- **React Context API** → Gestión global del estado del carrito.
 
 ---
 
